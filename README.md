@@ -1,5 +1,5 @@
 # Sobre mim:
-Entusiasta em Tecnologia e Programação.<br>Apenas estudando.
+Technology and Programming Enthusiast.<br>Currently studying.
 
 
 # 💻 Tech Stack:
